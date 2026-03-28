@@ -6,8 +6,8 @@
 
 ## 🌟 About Me
 
-* 🎓 Branch: [Your Branch]
-* 📅 Year: [Your Year]
+* 🎓 Branch: computer science
+* 📅 Year: 2025-2029
 * 💡 I aim to learn new technologies and build impactful projects.
 
 ---
