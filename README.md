@@ -8,16 +8,22 @@
 
 * 🎓 Branch: [Your Branch]
 * 📅 Year: [Your Year]
-* 💡 I’m interested in learning new technologies and improving my coding skills every day.
+* 💡 I aim to learn new technologies and build impactful projects.
 
 ---
 
 ## 🛠️ Skills
 
-### 💻 Programming & Libraries
+### 💻 Programming Language
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 📚 Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 </p>
 
 ### 🌐 Web Development
@@ -25,20 +31,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript" />
 </p>
-
-
-
-### 💻 Programming & Tools
-
-* Python
-* NumPy
-* Pandas
-
-### 🌐 Web Development
-
-* HTML
-* CSS
-* JavaScript
 
 ---
 
@@ -53,9 +45,9 @@
 
 ## 📌 Goals
 
-* 🌱 To learn advanced development and data analysis
-* 🤝 To collaborate on interesting projects
-* 🚀 To build impactful applications
+* 🌱 Improve my programming and development skills
+* 🤝 Collaborate on real-world projects
+* 🚀 Build useful and innovative applications
 
 ---
 
