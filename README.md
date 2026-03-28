@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Prasoon Yadav
 
-<!--
-**prasoon25bai10821-hue/prasoon25bai10821-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Tech Enthusiast | 🚀 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+* 🎓 Branch: [Your Branch]
+* 📅 Year: [Your Year]
+* 💡 I’m interested in learning new technologies and improving my coding skills every day.
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming & Tools
+
+* Python
+* NumPy
+* Pandas
+
+### 🌐 Web Development
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## 🔗 Connect with Me
+
+* 🐙 GitHub: https://github.com/your-username
+* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 💻 HackerRank: https://hackerrank.com/your-username
+* 📊 Kaggle: https://kaggle.com/your-username
+
+---
+
+## 📌 Goals
+
+* 🌱 To learn advanced development and data analysis
+* 🤝 To collaborate on interesting projects
+* 🚀 To build impactful applications
+
+---
+
+⭐ *Thanks for visiting my profile!*
