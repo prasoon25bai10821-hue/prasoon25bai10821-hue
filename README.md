@@ -14,6 +14,20 @@
 
 ## 🛠️ Skills
 
+### 💻 Programming & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+
+
 ### 💻 Programming & Tools
 
 * Python
