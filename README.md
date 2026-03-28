@@ -23,7 +23,9 @@
 ### 📚 Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 </p>
 
 ### 🌐 Web Development
@@ -52,3 +54,4 @@
 ---
 
 ⭐ *Thanks for visiting my profile!*
+
