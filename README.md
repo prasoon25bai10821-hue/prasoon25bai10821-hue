@@ -38,7 +38,7 @@
 
 ## 🔗 Connect with Me
 
-* 🐙 GitHub: https://github.com/your-username
+* 🐙 GitHub: https://github.com/prasoon25bai10821-hue
 * 💼 LinkedIn: https://linkedin.com/in/your-profile
 * 💻 HackerRank: https://hackerrank.com/your-username
 * 📊 Kaggle: https://kaggle.com/your-username
