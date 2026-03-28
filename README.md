@@ -39,9 +39,9 @@
 ## 🔗 Connect with Me
 
 * 🐙 GitHub: https://github.com/prasoon25bai10821-hue
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 💻 HackerRank: https://hackerrank.com/your-username
-* 📊 Kaggle: https://kaggle.com/your-username
+* 💼 LinkedIn: https://www.linkedin.com/in/prasoon-yadav311006/
+* 💻 HackerRank: https://www.hackerrank.com/profile/prasoon311006
+* 📊 Kaggle: https://www.kaggle.com/prasoon3110
 
 ---
 
